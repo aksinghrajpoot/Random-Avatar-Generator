@@ -78,6 +78,7 @@ const Avatar = () => {
 					<button id="down" onClick={() => {
 						downloadImage() }}>Download</button>
 				</div>
+				<p class='credit'>Created by <a href="https://aksingh.xnetking.in">A K Singh</a></p>
 			</div>
 		</div>
 	)
